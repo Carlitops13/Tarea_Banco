@@ -1,0 +1,8 @@
+com\tareabanco\util\EncryptionUtil.class
+forms\bancoForm.class
+forms\loginForm.class
+forms\CreateAccountForm.class
+com\tareabanco\Main.class
+com\tareabanco\model\DBConnection.class
+com\tareabanco\util\PasswordEncryptor.class
+com\tareabanco\TestDBConnection.class
